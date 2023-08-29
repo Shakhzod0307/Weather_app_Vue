@@ -5,3 +5,5 @@ Used  Api link= ' https://openweathermap.org/current '
 Screenshots: 
 
 ![Screenshots](src/assets/Screenshot.png)
+
+![Screenshots](src/assets/Screenshot2.png)
